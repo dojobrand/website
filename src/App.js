@@ -13,11 +13,13 @@ import {
   Route,
   Link
 } from "react-router-dom";
+import ScrollToTop from './ScrollToTop'
 
 function App() {
   return (
     <div>
       <Router>
+        <ScrollToTop/>
         <Header />
         <Routes>
           <Route path="/:tag" element={<Home />} />
