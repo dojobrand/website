@@ -18,7 +18,7 @@ export const data = [{
         "https://cdn.shopify.com/s/files/1/0600/0269/7394/products/Senzanome_53e39f4d-315d-442e-8b41-ee7d7edfbabd_1024x1024@2x.png?v=1632139850"
     ],
     title : "BASTONE TELESCOPICO FLESSIBILE",
-    price : "15,95",
+    price : "18",
     description : "In metallo, flessibile.\nLunghezza complessiva cm 43 ca. chiuso cm 18 ca.\nQuesto articolo potrebbe non essere immediatamente disponibile. Prima di compiere l'ordine, puoi mandarci una email per conoscerne la disponibilità ed i tempi di consegna.",
     tag : ["bastoni-telescopici"]
 },
@@ -28,7 +28,7 @@ export const data = [{
         "https://cdn.shopify.com/s/files/1/0600/0269/7394/products/Senzanome_f2b46cb4-841f-45e5-b875-08a43ea8ac27_1024x1024@2x.png?v=1632139907"
     ],
     title : "BASTONE TELESCOPICO RIGIDO",
-    price : "18,20",
+    price : "20,50",
     description : "In metallo, rigido.\nLunghezza complessiva cm 41 ca. chiuso cm 17,50 ca.\nQuesto articolo potrebbe non essere immediatamente disponibile. Prima di compiere l'ordine, puoi mandarci una email per conoscerne la disponibilità ed i tempi di consegna.",
     tag : ["bastoni-telescopici"]
 },
@@ -38,7 +38,7 @@ export const data = [{
         "https://cdn.shopify.com/s/files/1/0600/0269/7394/products/Senzanome_62edb127-e25e-4032-b435-1be98f1d4742_1024x1024@2x.png?v=1632153537",
     ],
     title : "sai ottagonali",
-    price : "62,60",
+    price : "72",
     description : "SAI ottagonali, modello artigianale. Lungo cm 50 ca. compresa l’impugnatura. Queste armi di origini giapponesi sono vendute al paio.\nQuesto articolo potrebbe non essere immediatamente disponibile. Prima di compiere l'ordine, puoi mandarci una email per conoscerne la disponibilità ed i tempi di consegna.",
     tag: ["sai"]
 },
@@ -48,7 +48,7 @@ export const data = [{
         "https://cdn.shopify.com/s/files/1/0600/0269/7394/products/Senzanome_04365c7d-5989-4de2-84c4-9906710cbd4b_1024x1024@2x.png?v=1632153591"
     ],
     title : "SAI TONDI",
-    price : "59,20",
+    price : "70",
     description : "SAI tondi, modello artigianale. Lungo cm 50 ca. compresa l’impugnatura. Queste armi di origini giapponesi sono vendute al paio.\nQuesto articolo potrebbe non essere immediatamente disponibile. Prima di compiere l'ordine, puoi mandarci una email per conoscerne la disponibilità ed i tempi di consegna.",
     tag : ["sai"]
 },
@@ -73,27 +73,6 @@ export const data = [{
     tag: ["spade"]
 },
 {
-    sku : "WT04074",
-    image : [
-        "https://cdn.shopify.com/s/files/1/0600/0269/7394/products/Senzanome_097e8667-0a0a-4811-9bd6-5b19e606370d_1024x1024@2x.png?v=1632145106",
-    ],
-    title : "WAKISASHI NON AFFILATA",
-    price : "81,95",
-    description : "Wakizashi non affilato, lama in acciaio inossidabile, impugnatura rivestita in cotone. Fodero in legno.\nLunghezza dell’impugnatura cm 40 ca. La lunghezza totale di questa spada giapponese è di cm 68 ca.\nQuesto articolo potrebbe non essere immediatamente disponibile. Prima di compiere l'ordine, puoi mandarci una email per conoscerne la disponibilità ed i tempi di consegna.",
-    tag: ["spade"]
-},
-{
-    sku : "WT07010",
-    image : [
-        "https://cdn.shopify.com/s/files/1/0600/0269/7394/products/Senzanome_0505f740-2af6-4989-9337-25b2ae6ac0dc_1024x1024@2x.png?v=1632145053",
-        "https://cdn.shopify.com/s/files/1/0600/0269/7394/products/Senzanome_630fe048-477f-4dd5-95bb-121e71b71f07_1024x1024@2x.png?v=1632145053"
-    ],
-    title : "STAND PER DUE SPADE",
-    price : "21,00",
-    description : "Facile assemblaggio. Consegna senza spade. Finitura laccato nero.\nColore: nero.\nLunghezza (senza spade) circa 40 cm.\nQuesto articolo potrebbe non essere immediatamente disponibile. Prima di compiere l'ordine, puoi mandarci una email per conoscerne la disponibilità ed i tempi di consegna.",
-    tag: ["spade"]
-},
-{
     sku : "WT04062",
     image : [
         "https://cdn.shopify.com/s/files/1/0600/0269/7394/products/Senzanome_dfee16c3-7b89-491c-8c61-9a71fb65af70_1024x1024@2x.png?v=1632144971",
@@ -106,16 +85,7 @@ export const data = [{
     description : "Spada telescopica Kung Fu.\nInclude cartella in similpelle nera.\nLunghezza: ca. 26 - 97 cm.\nQuesto articolo potrebbe non essere immediatamente disponibile. Prima di compiere l'ordine, puoi mandarci una email per conoscerne la disponibilità ed i tempi di consegna.",
     tag: ["spade"]
 },
-{
-    sku : "WT04060",
-    image : [
-        "https://cdn.shopify.com/s/files/1/0600/0269/7394/products/Senzanome_50f0fd01-b616-4fe0-8586-aada19b6d716_1024x1024@2x.png?v=1632144812",
-    ],
-    title : "SPADA TAI CHI REALIZZATA IN UN UNICO PEZZO DI LEGNO",
-    price : "21,25",
-    description : "Spada Tai Chi realizzata in un unico pezzo di legno.\nLunghezza: ca. 91 cm.\nQuesto articolo potrebbe non essere immediatamente disponibile. Prima di compiere l'ordine, puoi mandarci una email per conoscerne la disponibilità ed i tempi di consegna.",
-    tag: ["spade"]
-},
+
 {
     sku : "WT04064",
     image : [
@@ -189,22 +159,12 @@ export const data = [{
     tag: ["spade"]
 },
 {
-    sku : "WT04073",
-    image : [
-        "https://cdn.shopify.com/s/files/1/0600/0269/7394/products/Senzanome_e9160e7e-34f4-41f5-8243-a78d93fbdf29_1024x1024@2x.png?v=1632144189",
-    ],
-    title : "KATANA PER IAIDO NON AFFILATA",
-    price : "116,10",
-    description : "Katana per IAIDO non affilata, impugnatura rivestita in cotone. Questa spada giapponese ha il fodero in legno.\nLunghezza dell’impugnatura cm 25 ca.. Lunghezza della lama cm 71 ca.\nGrazie al tipo di impugnatura, questa katana può essere utilizzata per le forme. La lama non è in acciaio e non può essere affilata.\nQuesto articolo potrebbe non essere immediatamente disponibile. Prima di compiere l'ordine, puoi mandarci una email per conoscerne la disponibilità ed i tempi di consegna.",
-    tag: ["spade"]
-},
-{
     sku : "WT04072",
     image : [
         "https://cdn.shopify.com/s/files/1/0600/0269/7394/products/Senzanome_50fc441e-1390-44bd-b173-edbe84ce73a5_1024x1024@2x.png?v=1632144134",
     ],
     title : "KATANA NON AFFILATA",
-    price : "87,65",
+    price : "97",
     description : "Katana con lama non affilata in acciaio inossidabile, impugnatura rivestita in cotone. Questa spada giapponese ha il fodero in legno laccato nero.\nLunghezza totale cm 105 ca.. Lunghezza della lama cm 70 ca.\nQuesto articolo potrebbe non essere immediatamente disponibile. Prima di compiere l'ordine, puoi mandarci una email per conoscerne la disponibilità ed i tempi di consegna.",
     tag: ["spade"]
 },
@@ -214,10 +174,11 @@ export const data = [{
         "https://cdn.shopify.com/s/files/1/0600/0269/7394/products/Senzanome_69bfa200-927a-4066-8f76-46ca07f7b24e_1024x1024@2x.png?v=1632145827",
     ],
     title : "NUNCHAKU IN GOMMA PIENA CON CATENA",
-    price : "13,65",
+    price : "19,50",
     description : "Nunchaku in gomma piena con catena\nQuesto articolo potrebbe non essere immediatamente disponibile. Prima di compiere l'ordine, puoi mandarci una email per conoscerne la disponibilità ed i tempi di consegna.",
     tag: ["nunchaku"]
 },
+/*
 {
     sku : "WT20000",
     image : [
@@ -233,6 +194,7 @@ export const data = [{
     description : "Doppi coltelli a farfalla in acciaio inox per la pratica del Wing Chun (Wing Tsun e Ving Tsun). Incisi a laser con i simboli Wing Chun e Bart Cham Dao. Design di altissima qualità.\nEccellente coppia di coltelli a farfalla Wing Chun con peso e dimensioni adeguati ad un idoneo allenamento.\nNn perderti la possibilità di possederne un paio.\nTutta la lama è in acciaio inox serie 300. Molto robusto e adeguatamente pesante ad un giusto allenamento. Anche il raccordo sul manico è internamente in acciaio con finitura a caldo.\nSpecifica: l'intera lunghezza è di 42 cm e la lunghezza della banda è di 12 cm, la lunghezza della lama è di 30 cm, peso totale 1,6Kg/coppia.\nLa custodia è inclusa nel prezzo.\nQuesto è il modello di doppi coltelli utilizzato alla premiere del film record di incassi IP MAN 3 (Shangai 28/2/2016). Nelle foto sottostanti vedrete le stelle del cinema Donnie Yen e Max Zhang impugnarne due coppie.\nQuesto articolo potrebbe non essere immediatamente disponibile. Prima di compiere l'ordine, puoi mandarci una email per conoscerne la disponibilità ed i tempi di consegna.",
     tag: ["butterfly-knives"]
 },
+*/
 {
     sku : "WT20006",
     image : [
@@ -240,7 +202,7 @@ export const data = [{
         "https://cdn.shopify.com/s/files/1/0600/0269/7394/products/Senzanome_ed5d8b0d-f924-441a-9076-d41af759fbc7_1024x1024@2x.png?v=1631895582"
     ],
     title : "CUSTODIA DOPPI COLTELLI WING TSUN",
-    price : "22,75",
+    price : "21,50",
     description : "Custodia semirigida per doppi coltelli Sai e doppi coltelli wing tsun. Un oggetto indispensabile per tenere i sicurezza i vostri strumenti di allenamento. La custodia è imbottita in morbido feltro rosso ed ha un rivistimento esterno in vinile e maniglia in nylon. Al suo interno è presente un pannello separatore per impedire che i coltelli cozzino fra di loro. Chiusura con cerniera.Misura 58x19cm perfetta per i doppi coltelli wing tsun.",
     tag : ["butterfly-knives"]
 },
@@ -316,7 +278,7 @@ export const data = [{
         "https://cdn.shopify.com/s/files/1/0600/0269/7394/products/Senzanome_c68b3da0-fe65-44c3-a48d-edee68bae9aa_1024x1024@2x.png?v=1632145934",
     ],
     title : "NUNCHAKU IN LEGNO OTTAGONALE CON CORDA",
-    price : "9,10",
+    price : "11,00",
     description : "Esistono due tipi di bastoni per nunchaku: ci sono i bastoni rotondi oppure i bastoni ottagonali. Questa apparente minima diversità comporta delle tecniche di utilizzo diversificate.\nQuesto articolo potrebbe non essere immediatamente disponibile. Prima di compiere l'ordine, puoi mandarci una email per conoscerne la disponibilità ed i tempi di consegna.",
     tag : ["nunchaku"]
 },
@@ -326,7 +288,7 @@ export const data = [{
         "https://cdn.shopify.com/s/files/1/0600/0269/7394/products/Senzanome_ef33e215-8ede-4006-b151-5791306f45fd_1024x1024@2x.png?v=1632145884",
     ],
     title : "NUNCHAKU IN LEGNO OTTAGONALE CON CATENA",
-    price : "12,55",
+    price : "14",
     description : "Esistono due tipi di bastoni per nunchaku: ci sono i bastoni rotondi oppure i bastoni ottagonali. Questa apparente minima diversità comporta delle tecniche di utilizzo diversificate.\nGli utilizzi del nunchaku sono diversi, ma la sua caratteristica principale è quella di riuscire a tenere a bada diversi avversari. Può essere fatto ruotare a velocità sostenute per utilizzare le estremità contro l’avversario oppure può anche essere afferrato a due mani per immobilizzarli e bloccarli o colpirli da distanze ravvicinate.\nQuesto articolo potrebbe non essere immediatamente disponibile. Prima di compiere l'ordine, puoi mandarci una email per conoscerne la disponibilità ed i tempi di consegna.",
     tag : ["nunchaku"]
 },
@@ -336,7 +298,7 @@ export const data = [{
         "https://cdn.shopify.com/s/files/1/0600/0269/7394/products/Senzanome_95ad3c15-8f13-4a2f-b637-8817acc320b8_1024x1024@2x.png?v=1632145719",
     ],
     title : "NUNCHAKU IN GOMMA CON CATENA",
-    price : "10,80",
+    price : "11,50",
     description : "Il Nunchaku in gomma è ideale per esercitarsi durante gli allenamenti.\nQuesto articolo potrebbe non essere immediatamente disponibile. Prima di compiere l'ordine, puoi mandarci una email per conoscerne la disponibilità ed i tempi di consegna.",
     tag : ["nunchaku"]
 },
@@ -348,7 +310,7 @@ export const data = [{
         "https://cdn.shopify.com/s/files/1/0600/0269/7394/products/Senzanome_d771e6e9-7f41-4c8d-8eb1-f612b2eb0698_1024x1024@2x.png?v=1632145652"
     ],
     title : "NUNCHAKU IN FERRO A TRE SEZIONI TELESCOPICO",
-    price : "20,50",
+    price : "18",
     description : "Nunchaku in ferro a tre sezioni telescopico.\nQuesto articolo potrebbe non essere immediatamente disponibile. Prima di compiere l'ordine, puoi mandarci una email per conoscerne la disponibilità ed i tempi di consegna.",
     tag : ["nunchaku"]
 },
@@ -358,7 +320,7 @@ export const data = [{
         "https://cdn.shopify.com/s/files/1/0600/0269/7394/products/Senzanome_c32c5126-557b-4b13-8345-3afe93a317f0_1024x1024@2x.png?v=1632146110",
     ],
     title : "NUNCHAKU IN TRE PEZZI",
-    price : "32,10",
+    price : "36",
     description : "Nunchaku in legno tondo in tre pezzi.\nQuesto articolo potrebbe non essere immediatamente disponibile. Prima di compiere l'ordine, puoi mandarci una email per conoscerne la disponibilità ed i tempi di consegna.",
     tag : ["nunchaku"]
 },
@@ -368,7 +330,7 @@ export const data = [{
         "https://cdn.shopify.com/s/files/1/0600/0269/7394/products/Senzanome_36a6bf89-91d1-4f56-8e49-c0e12a4de05b_1024x1024@2x.png?v=1632146047",
     ],
     title : "NUNCHAKU IN RATTAN CON CATENA",
-    price : "15,95",
+    price : "17,50",
     description : "Questo nunchaku, come altre armi di discipline quali Kali o Silat, è realizzato in un materiale resistente ai graffi, il rattan, termine che indica una famiglia di palme tipiche dei paesi dell'estremo oriente, il cui fusto, in base alla lavorazione ricevuta, assume vari formati.\nQuesto articolo potrebbe non essere immediatamente disponibile. Prima di compiere l'ordine, puoi mandarci una email per conoscerne la disponibilità ed i tempi di consegna.",
     tag : ["nunchaku"]
 },
@@ -378,7 +340,7 @@ export const data = [{
         "https://cdn.shopify.com/s/files/1/0600/0269/7394/products/Senzanome_5ad0dd50-c7d7-4926-a385-95a5630704af_1024x1024@2x.png?v=1632145989",
     ],
     title : "NUNCHAKU IN LEGNO TONDO CON CATENA",
-    price : "12,55",
+    price : "11,00",
     description : "Nunchaku in legno tondo con catena.\nQuesto articolo potrebbe non essere immediatamente disponibile. Prima di compiere l'ordine, puoi mandarci una email per conoscerne la disponibilità ed i tempi di consegna.",
     tag : ["nunchaku"]
 },
@@ -388,7 +350,7 @@ export const data = [{
         "https://cdn.shopify.com/s/files/1/0600/0269/7394/products/Senzanome_155b7378-74a9-461d-b5e1-39d240e42445_1024x1024@2x.png?v=1632145777",
     ],
     title : "NUNCHAKU IN GOMMA CON CORDA",
-    price : "6,85",
+    price : "7,50",
     description : "Il Nunchaku in gomma è ideale per esercitarsi durante gli allenamenti.\nQuesto articolo potrebbe non essere immediatamente disponibile. Prima di compiere l'ordine, puoi mandarci una email per conoscerne la disponibilità ed i tempi di consegna.",
     tag : ["nunchaku"]
 },
