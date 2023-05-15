@@ -221,10 +221,13 @@ export const data = [{
     sku : "WT05120",
     image : [
         "https://cdn.shopify.com/s/files/1/0600/0269/7394/products/Senzanome_67145010-2956-4698-8e33-032e638120a8_1024x1024@2x.png?v=1632154723",
+        "https://cdn.shopify.com/s/files/1/0600/0269/7394/files/WhatsAppImage2023-05-15at08.02.48_1.jpg?v=1684142337",
+        "https://cdn.shopify.com/s/files/1/0600/0269/7394/files/WhatsAppImage2023-05-15at08.02.48.jpg?v=1684142337",
+        "https://cdn.shopify.com/s/files/1/0600/0269/7394/files/WhatsAppImage2023-05-15at08.02.48_1.jpg?v=1684142337"
     ],
     title : "SPRAYs AL PEPERONCINO CLASSIC",
     price : "16,45",
-    description : "Spray al peperoncino Classic\nBomboletta da 15 ml. per la difesa personale.\nLibera vendita maggiori di 16 anni.\nGetto spray nebulizzato 2 mt.\nGRADO DI PICCANTEZZA SCOVILLE 800.000\nPuoi scegliere nelle tre varianti di colore:\nRosa – Mimetico – Rosso/Giallo\nQuesto articolo potrebbe non essere immediatamente disponibile. Prima di compiere l'ordine, puoi mandarci una email per conoscerne la disponibilità ed i tempi di consegna.\n\nDisponibili anche spray con plastica danneggiata ma perfettamente funzionanti, ad un prezzo di 7€. Si veda foto.",
+    description : "Spray al peperoncino Classic\nBomboletta da 15 ml. per la difesa personale.\nLibera vendita maggiori di 16 anni.\nGetto spray nebulizzato 2 mt.\nGRADO DI PICCANTEZZA SCOVILLE 800.000\nPuoi scegliere nelle tre varianti di colore:\nRosa – Mimetico – Rosso/Giallo\nQuesto articolo potrebbe non essere immediatamente disponibile. Prima di compiere l'ordine, puoi mandarci una email per conoscerne la disponibilità ed i tempi di consegna.\n\n <b><u>Disponibili anche spray con plastica danneggiata ma perfettamente funzionanti, ad un prezzo di 7€. Si veda foto.</u></b>",
     tag: ["difesa-personale"]
 },
 {
